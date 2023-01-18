@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family:'Times New Roman', Times, serif;
+    
+    
+}
+/* navbar */
+.navbar-nav{
+
+   font-size: 20px;
+
+}
+/* header button */
+
+.btn-custom{
+    background-color:  rebeccapurple;
+}
+
+#btn{
+    background-color: #001727;
+    border-radius: 0%;
+    
+
+}
+ #btn:hover{
+
+    background-color:gray; 
+    color: black; 
+    
+}
+
+#second-banner { 
+    
+background: #F6CDB0;
+}
+
+/* #second-banner img{
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+ */
+
+
+#services{
+    background: #F4E19D;
+
+}
+
+
+#third{
+    background: #F1B884;
+    /* height: 350px; */
+
+}
+
+/* about page */
+
+#get{
+    background: #f5d9bf;
+
+
+}
+/* services */
+#got{
+    background:#F4E19D;
+
+
+}
